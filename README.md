@@ -36,10 +36,13 @@ Ao enviar o formulário, os dados são capturados e exibidos dinamicamente na te
    ```bash
    git clone https://github.com/seuusuario/git-teste.git
 
-link do Projeto
+
 
 ---
-<a href="(https://jhoncavalli.github.io/Git-teste/)" target="_blank">Visite meu site 🌐</a>
+
+[![Preview do projeto](https://via.placeholder.com/300x150.png?text=Preview)](https://jhoncavalli.github.io/Git-teste/)
+
+
 
 
 
