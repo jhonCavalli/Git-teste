@@ -84,3 +84,10 @@ label {
     width: 300px;
 }
 
+.footer-p {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #888;
+    text-align: center;
+}
+
