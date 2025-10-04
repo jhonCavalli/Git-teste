@@ -41,7 +41,7 @@ Ao enviar o formulário, os dados são capturados e exibidos dinamicamente na te
 -----
 =======
 
-[![Deploy](https://img.shields.io/badge/Ver%20Projeto-Ondeline-kkk-💻-blue)](https://jhoncavalli.github.io/Git-teste/)
+[![Deploy](https://img.shields.io/badge/Ver%20Projeto-Ondeline-blue)](https://jhoncavalli.github.io/Git-teste/)
 
 
 
