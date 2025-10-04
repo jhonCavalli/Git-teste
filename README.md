@@ -39,7 +39,7 @@ Ao enviar o formulário, os dados são capturados e exibidos dinamicamente na te
 link do Projeto
 
 ---
-<a href="(https://jhoncavalli.github.io/Git-teste/)" target="_blank">Visite meu site 🌐</a>
+<a href="https://jhoncavalli.github.io/Git-teste/" target="_blank">Visite meu site 🌐</a>
 
 
 
