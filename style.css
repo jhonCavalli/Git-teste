@@ -85,9 +85,20 @@ label {
 }
 
 .footer-p {
-    margin-top: 20px;
-    font-size: 0.9em;
-    color: #888;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    color: #777;
     text-align: center;
+    font-size: 0.9em;
+    text-decoration: none;
 }
 
+.footer-p a {
+    color: #777;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    cursor: pointer;
+}
