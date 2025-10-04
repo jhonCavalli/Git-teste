@@ -41,7 +41,7 @@ Ao enviar o formulário, os dados são capturados e exibidos dinamicamente na te
 -----
 =======
 
-[![Deploy](https://img.shields.io/badge/Ver%20Projeto-Online-green)](https://jhoncavalli.github.io/Git-teste/)
+[![Deploy](https://img.shields.io/badge/Ver%20Projeto-Online-blue)](https://jhoncavalli.github.io/Git-teste/)
 
 
 
