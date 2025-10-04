@@ -39,7 +39,8 @@ Ao enviar o formulário, os dados são capturados e exibidos dinamicamente na te
 link do Projeto
 
 ---
-[!Prieview] (https://jhoncavalli.github.io/Git-teste/)
+<a href="(https://jhoncavalli.github.io/Git-teste/)" target="_blank">Visite meu site 🌐</a>
+
 
 
 Quer que eu adicione **badges visuais (HTML, CSS, JS, MIT, Author)** e formatação estilizada tipo GitHub Pro (com ícones e links)? Isso deixaria o README mais profissional visualmente.
